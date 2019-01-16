@@ -1,0 +1,6 @@
+.Navigation {
+  display: flex;
+  align-items: center;
+  background-color: orangered;
+  justify-content: space-between
+}
